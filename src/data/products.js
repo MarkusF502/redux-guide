@@ -1,59 +1,68 @@
 const products = [
   {
     id: "6228fe63b7e6cb904bbe0165",
-    price: 150,
-    name: "Suéter Branco",
+    price: 2024,
+    equipe: "Real Madrid",
+    name: "Vinícius Júnior",
     imageUrl:
-      "https://images.unsplash.com/flagged/photo-1559502867-c406bd78ff24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
+      "https://acdn.mitiendanube.com/stores/001/562/869/products/sem-titulo-11551-36f498600897de813616953874507335-1024-1024-26fa7bbad5847d107a16968596284836-1024-1024.png",
   },
   {
     id: "6228fec7b7e6cb904bbe016f",
-    name: "Regata Azul",
-    price: 150,
+    equipe: "Manchester City",
+    name: "Erling Haaland",
+    price: 2023,
     imageUrl:
-      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80s",
+      "https://acdn.mitiendanube.com/stores/002/152/760/products/camisa-manchester-city-haaland-9-oficial-puma-azul-2023-20241-6284e2df0c49954a0916937916413332-640-0.jpeg",
   },
   {
-    price: 200,
+    price: 2020,
+    equipe: "Bayer de Munique",
     id: "6228ff71b7e6cb904bbe0175",
     imageUrl:
-      "https://images.unsplash.com/photo-1584670747417-594a9412fba5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    name: "Suéter Vermelho Vibrante",
+      "https://i.ebayimg.com/thumbs/images/g/Zq8AAOSwq9RlkYVz/s-l1200.jpg",
+    name: "Robert Lewandowski",
   },
   {
-    name: "Vestido Vermelho",
-    price: 250,
+    name: "Virgil van Dijk",
+    equipe: "Liverpool",
+    price: 2019,
     imageUrl:
-      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=746&q=80",
+      "https://www.futebol-baratas.com/images/camisa_virgil_van_dijk_4_liverpool_2020-2021_home_-_vermelho_homens.jpg",
     id: "6228ff93b7e6cb904bbe0177",
   },
   {
-    price: 300,
+    price: 2018,
+    equipe: "Real Madrid",
     id: "6228fe80b7e6cb904bbe0168",
-    name: "Jaqueta Xadrez",
+    name: "Cristiano Ronaldo",
     imageUrl:
-      "https://images.unsplash.com/photo-1525450824786-227cbef70703?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "https://www.camisolas2u.com/image/cache//fb1/10/fb_UDtrpKWP5K_1681-500x500.jpg",
+    id: "6228ff93b7e6cb904bbe0177",
   },
   {
-    price: 200,
-    name: "Blusa Branca",
+    price: 2015,
+    equipe: "Barcelona",
+    name: "Neymar Jr.",
     id: "6228ff31b7e6cb904bbe0172",
     imageUrl:
-      "https://images.unsplash.com/photo-1624206112918-f140f087f9b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "https://i.ebayimg.com/images/g/1bEAAOSwGotWn~qp/s-l500.jpg",
   },
   {
-    price: 200,
+    price: 2011,
+    equipe: "Barcelona",
     imageUrl:
-      "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+      "https://classicfootballkit.fr/cdn/shop/files/ukss-image-barcelona-2010-11-home-xavi-6-9728.png?v=1718978500",
     id: "62290014b7e6cb904bbe017c",
-    name: "Calça Jeans Azul",
+    name: "Xavi Hernández",
   },
   {
     id: "6228ffa5b7e6cb904bbe017a",
-    name: "Vestido Branco",
-    price: 250,
+    name: "Andrés Iniesta",
+    price: 2010,
+    equipe: "Barcelona",
     imageUrl:
-      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+      "https://www.soccerclasico.com/cdn/shop/files/ukss-image-barcelona-2010-11-home-ainiesta-8-9728.png?v=1718978435",
   },
 ];
 

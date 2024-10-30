@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   width: 100%;
-  background-color: #222222;
+  background-color: #1F1E26;
   display: flex;
   justify-content: space-between;
-  color: #eee;
+  color: #F29727;
   padding: 20px;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
 `;

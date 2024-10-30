@@ -9,6 +9,10 @@ export const CartItemContainer = styled.div`
   p {
     color: #222222;
   }
+
+  svg {
+  color: #222222;
+  }
 `;
 
 export const CartItemImage = styled.div`
@@ -36,6 +40,13 @@ export const CartItemInfo = styled.div`
 
   p:nth-child(2) {
     font-weight: 500;
+  }
+
+  .team{
+  font-size: 0.7rem;
+  font-weight: 300;
+  color: #59280B;
+  
   }
 `;
 

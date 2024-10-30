@@ -28,7 +28,7 @@ export const CartContent = styled.div`
   height: 100%;
   min-width: 500px;
   z-index: 200;
-  background-color: white;
+  background-color: #F2F0C9;
   padding: 20px;
   overflow-y: scroll;
 

@@ -10,13 +10,19 @@ export const ProductContainer = styled.div`
 `;
 
 export const ProductInfo = styled.div`
-  display: flex;
+  display: block;
   justify-content: space-between;
   margin-top: 5px;
 
   p {
     font-size: 1rem;
     font-weight: 500;
+  }
+  .team{
+  font-size: 0.7rem;
+  font-weight: 300;
+  color: #F29727;
+  
   }
 `;
 
