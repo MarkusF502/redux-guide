@@ -27,7 +27,7 @@ Os produtos estão organizados em um arquivo `products.js`, dentro da pasta `dat
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/markus-redux-shopping.git
+   git clone https://github.com/MarkusF502/redux-guide
    cd markus-redux-shopping
 2. Instale as dependências:
    ```bash
